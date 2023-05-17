@@ -1,1 +1,2 @@
-# Django-201
+Django practice second round
+
